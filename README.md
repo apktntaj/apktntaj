@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My Name is Alam Asy'arie from Indonesia.
+
+I build backend applications that process customs-related invoice data.
+
+My projects focus on parsing documents, extracting HS codes, and computing
+tax-related information, with an emphasis on correctness and clear data flow
+over framework complexity.
+
+Current work is centered around customs and import processing workflows.
